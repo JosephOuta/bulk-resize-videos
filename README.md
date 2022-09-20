@@ -1,4 +1,5 @@
 # bulk-resize-videos
+This script will help you resize many videos in bulk. By resize I mean reduce the file size significantly (in my case I think I reduced a 400mb video to like 70-something mb).
 
 ## How to use
 - Download [ffmpeg](https://ffmpeg.org/download.html)
